@@ -23,3 +23,13 @@ In regards to programming, I took what I learned from Crazy Runner and tried to 
 on each other. This is because I noticed while developing Crazy Runner there were a lot of dependencies that made testing a lot more difficult, as
 an example I would have to start the game from the main menu every time I wanted to test something in the game scene, which made testing the game
 a lot more time consuming.
+
+![alt text](https://github.com/ccgstudiogit/RollABall2-Scripts/blob/main/Screenshots/RollABall2_menu.jpg)
+
+![alt text](https://github.com/ccgstudiogit/RollABall2-Scripts/blob/main/Gifs/void_level.gif)
+
+![alt text](https://github.com/ccgstudiogit/RollABall2-Scripts/blob/main/Gifs/clouds.gif)
+
+![alt text](https://github.com/ccgstudiogit/RollABall2-Scripts/blob/main/Gifs/fire.gif)
+
+![alt text](https://github.com/ccgstudiogit/RollABall2-Scripts/blob/main/Gifs/void.gif)
